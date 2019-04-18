@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 13 12:09:24 2019
 
-# just like ann_sigmoid.py but uses softmax and classifies all emotions of pictures with the use of logistic regression
+# just like ann_sigmoid.py but uses softmax and classifies emotions of pictures with the use of logistic regression
 
 @author: Kubus
 """
