@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 24 12:30:43 2019
 
-#usses Artificial Neural Network to classify 1 emotion from the provided set of human expression pictures
+#uses Artificial Neural Network to classify 1 emotion from the provided set of human expression pictures
 
 @author: Kubus
 """
